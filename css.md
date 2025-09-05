@@ -1,3 +1,4 @@
+
 # CSS Styling Basics for High School Freshmen
 
 ## Lesson Objectives
