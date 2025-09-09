@@ -7,11 +7,28 @@ body {
     color: white;
 }
 
-h1,
+h1 {
+    text-align: center;
+    font-size: 400%;
+
+}
+
 p {
     text-align: center;
+    font-size: x-large;
+    width: 75%;
+    margin: auto;
 }
 
 h2 {
-    itali
+    font-style: italic;
+    text-align: center;
+    font-size: xx-large;
+}
+
+ul,
+ol,
+h3,
+h4 {
+    font-size: x-large;
 }
